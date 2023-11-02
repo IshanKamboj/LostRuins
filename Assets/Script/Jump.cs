@@ -14,7 +14,7 @@ public class Jump : MonoBehaviour
     Vector2 vecGravity;
     bool isJumping;
     float jumpCounter;
-
+    [SerializeField] private AudioSource jumpSoundEffect;
 
 
     // Start is called before the first frame update
@@ -57,6 +57,7 @@ public class Jump : MonoBehaviour
         }
         if(Input.GetKeyUp(KeyCode.Space)) 
         { 
+            jumpSoundEffect.Play();
             isJumping=false;
             jumpCounter=0;
             if (rb.velocity.y > 0)

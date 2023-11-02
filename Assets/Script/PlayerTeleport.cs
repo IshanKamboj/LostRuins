@@ -5,6 +5,7 @@ using UnityEngine;
 public class PlayerTeleport : MonoBehaviour
 {
     private GameObject currentTeleporter;
+    [SerializeField] private AudioSource teleportsoundeffect;
     void Update()
     {
        if (Input.GetKeyDown(KeyCode.E))
@@ -12,6 +13,7 @@ public class PlayerTeleport : MonoBehaviour
         if(currentTeleporter != null)
         {
             transform.position=currentTeleporter.GetComponent<Teleporter>().GetDestination().position;
+            teleportsoundeffect.Play();
         }
        }
     }
