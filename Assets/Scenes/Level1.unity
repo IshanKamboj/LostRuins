@@ -189,8 +189,8 @@ MonoBehaviour:
   m_ShadowVolumeIntensityEnabled: 0
   m_ShadowVolumeIntensity: 0.75
   m_LocalBounds:
-    m_Center: {x: -0.07309997, y: -0.010650039, z: 0}
-    m_Extent: {x: 2.8491, y: 3.13445, z: 0}
+    m_Center: {x: -0.06774998, y: -0.004450083, z: 0}
+    m_Extent: {x: 2.84615, y: 3.13815, z: 0}
   m_PointLightInnerAngle: 360
   m_PointLightOuterAngle: 360
   m_PointLightInnerRadius: 0
@@ -778,8 +778,8 @@ MonoBehaviour:
   m_ShadowVolumeIntensityEnabled: 0
   m_ShadowVolumeIntensity: 0.75
   m_LocalBounds:
-    m_Center: {x: -0.06784999, y: -0.0061000586, z: 0}
-    m_Extent: {x: 2.84415, y: 3.1286001, z: 0}
+    m_Center: {x: -0.070550084, y: -0.009250045, z: 0}
+    m_Extent: {x: 2.8466501, y: 3.13725, z: 0}
   m_PointLightInnerAngle: 360
   m_PointLightOuterAngle: 360
   m_PointLightInnerRadius: 0
@@ -1627,8 +1627,8 @@ MonoBehaviour:
   m_ShadowVolumeIntensityEnabled: 0
   m_ShadowVolumeIntensity: 0.75
   m_LocalBounds:
-    m_Center: {x: -0.06704998, y: -0.009150028, z: 0}
-    m_Extent: {x: 2.85765, y: 3.14275, z: 0}
+    m_Center: {x: -0.061700106, y: -0.0029000044, z: 0}
+    m_Extent: {x: 2.8534, y: 3.1328, z: 0}
   m_PointLightInnerAngle: 360
   m_PointLightOuterAngle: 360
   m_PointLightInnerRadius: 0
@@ -2045,8 +2045,8 @@ MonoBehaviour:
   m_ShadowVolumeIntensityEnabled: 0
   m_ShadowVolumeIntensity: 0.75
   m_LocalBounds:
-    m_Center: {x: -0.07210004, y: -0.012400031, z: 0}
-    m_Extent: {x: 2.8494, y: 3.1383, z: 0}
+    m_Center: {x: -0.068699956, y: -0.00274992, z: 0}
+    m_Extent: {x: 2.8561, y: 3.13605, z: 0}
   m_PointLightInnerAngle: 360
   m_PointLightOuterAngle: 360
   m_PointLightInnerRadius: 0
@@ -17442,7 +17442,7 @@ CompositeCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
   m_GeometryType: 0
-  m_GenerationType: 1
+  m_GenerationType: 0
   m_EdgeRadius: 0
   m_ColliderPaths:
   - m_Collider: {fileID: 463931525}
@@ -17780,7 +17780,137 @@ CompositeCollider2D:
       - X: 110000000
         Y: -20000000
   m_CompositePaths:
-    m_Paths: []
+    m_Paths:
+    - - {x: 40.999973, y: -9}
+      - {x: 41.00003, y: 10}
+      - {x: 43, y: 10.00003}
+      - {x: 42.999973, y: 31}
+      - {x: 37, y: 31.000029}
+      - {x: 36.999973, y: 32}
+      - {x: 33, y: 31.999971}
+      - {x: 32.999973, y: 31}
+      - {x: 18, y: 31.000029}
+      - {x: 17.999971, y: 33}
+      - {x: -6, y: 32.999973}
+      - {x: -6.0000296, y: 31}
+      - {x: -37, y: 30.999971}
+      - {x: -37.00003, y: 14}
+      - {x: -41, y: 13.999971}
+      - {x: -40.999973, y: -9}
+    - - {x: 28, y: 11.00003}
+      - {x: -7, y: 11.00003}
+      - {x: -6.9999704, y: 23}
+      - {x: 2, y: 23.000029}
+      - {x: 1.9999708, y: 24}
+      - {x: -6.9999986, y: 24.000032}
+      - {x: -6.7499943, y: 28.000008}
+      - {x: -4.999988, y: 30}
+      - {x: 13.000008, y: 29.749994}
+      - {x: 15, y: 27.999987}
+      - {x: 15.000029, y: 25}
+      - {x: 16, y: 25.000029}
+      - {x: 16.000029, y: 28}
+      - {x: 28, y: 27.999971}
+      - {x: 28.000029, y: 25}
+      - {x: 29, y: 25.000029}
+      - {x: 29.000029, y: 28}
+      - {x: 40, y: 27.999971}
+      - {x: 39.999973, y: 13}
+      - {x: 32, y: 12.99997}
+      - {x: 31.999971, y: 12}
+      - {x: 29, y: 12.00003}
+      - {x: 28.999971, y: 21}
+      - {x: 22.999992, y: 21.000015}
+      - {x: 22.437485, y: 22}
+      - {x: 19.562492, y: 21.999987}
+      - {x: 18.999985, y: 21}
+      - {x: 15, y: 20.999971}
+      - {x: 15.000029, y: 14}
+      - {x: 16, y: 14.000029}
+      - {x: 16.000029, y: 20}
+      - {x: 28, y: 19.999971}
+    - - {x: -23, y: 14.000029}
+      - {x: -32, y: 14.000029}
+      - {x: -31.999985, y: 18.000008}
+      - {x: -29, y: 19.43752}
+      - {x: -29.000029, y: 20}
+      - {x: -32, y: 20.000029}
+      - {x: -31.999971, y: 28}
+      - {x: -8, y: 27.999971}
+      - {x: -8.00003, y: 22}
+      - {x: -12, y: 21.999971}
+      - {x: -11.999989, y: 21.437492}
+      - {x: -9.999992, y: 20}
+      - {x: -8, y: 19.999971}
+      - {x: -8.00003, y: 14}
+      - {x: -15.000009, y: 14.000014}
+      - {x: -15.562515, y: 15}
+      - {x: -23, y: 14.999971}
+    - - {x: -20.000029, y: 24}
+      - {x: -20.000029, y: 25}
+      - {x: -22, y: 24.999971}
+      - {x: -21.999971, y: 24}
+    - - {x: 8.99997, y: 23}
+      - {x: 8.99997, y: 24}
+      - {x: 5, y: 23.999971}
+      - {x: 5.000029, y: 23}
+    - - {x: -15.000029, y: 22}
+      - {x: -15.000029, y: 23}
+      - {x: -16, y: 22.999971}
+      - {x: -15.999971, y: 22}
+    - - {x: -25.000029, y: 22}
+      - {x: -25.000029, y: 23}
+      - {x: -27, y: 22.999971}
+      - {x: -26.999971, y: 22}
+    - - {x: 13.999971, y: 20}
+      - {x: 13.999971, y: 21}
+      - {x: 12, y: 20.999971}
+      - {x: 12.00003, y: 20}
+    - - {x: 8.99997, y: 18}
+      - {x: 8.99997, y: 19}
+      - {x: 8, y: 18.999971}
+      - {x: 8.00003, y: 18}
+    - - {x: -26.000029, y: 17}
+      - {x: -26.000029, y: 18}
+      - {x: -27, y: 17.999971}
+      - {x: -26.999971, y: 17}
+    - - {x: 4.999971, y: 16}
+      - {x: 4.999971, y: 17}
+      - {x: 1, y: 16.999971}
+      - {x: 1.0000293, y: 16}
+    - - {x: -2.0000293, y: 14}
+      - {x: -2.0000293, y: 15}
+      - {x: -5, y: 14.999971}
+      - {x: -4.999971, y: 14}
+    - - {x: -23, y: -5.9999704}
+      - {x: -38, y: -5.9999704}
+      - {x: -37.999973, y: 2}
+      - {x: -34, y: 2.0000293}
+      - {x: -34.00003, y: 3}
+      - {x: -37.999996, y: 3.0000324}
+      - {x: -37.749992, y: 6.0000067}
+      - {x: -35.99999, y: 8}
+      - {x: -16, y: 7.9999704}
+      - {x: -15.999971, y: 2}
+      - {x: -15, y: 2.0000293}
+      - {x: -14.999971, y: 13}
+      - {x: -8, y: 12.99997}
+      - {x: -8.00003, y: -2}
+      - {x: -19.43751, y: -2.0000136}
+      - {x: -20.000006, y: -3.0000036}
+      - {x: -21, y: -3.562516}
+      - {x: -21.000015, y: -4.0000076}
+      - {x: -22, y: -4.562516}
+      - {x: -22.000015, y: -5.0000076}
+      - {x: -23, y: -5.562516}
+    - - {x: 11, y: -1.9999707}
+      - {x: -7, y: -1.9999707}
+      - {x: -6.9999704, y: 10}
+      - {x: 28, y: 9.99997}
+      - {x: 27.999971, y: -2}
+      - {x: 16, y: -1.9999707}
+      - {x: 15.999971, y: 4}
+      - {x: 11, y: 3.999971}
   m_VertexDistance: 0.27
   m_OffsetDistance: 0.00005
   m_UseDelaunayMesh: 0
@@ -17942,6 +18072,7 @@ GameObject:
   m_Component:
   - component: {fileID: 514237744}
   - component: {fileID: 514237743}
+  - component: {fileID: 514237745}
   m_Layer: 0
   m_Name: bgmusic
   m_TagString: Untagged
@@ -18060,6 +18191,102 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!82 &514237745
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 514237742}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 445a4514fa20f2d4f8045b9aeb1824ce, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1 &539188368
 GameObject:
   m_ObjectHideFlags: 0
@@ -19858,8 +20085,8 @@ MonoBehaviour:
   m_ShadowVolumeIntensityEnabled: 0
   m_ShadowVolumeIntensity: 0.75
   m_LocalBounds:
-    m_Center: {x: 0.006449938, y: -0.0028498173, z: 0}
-    m_Extent: {x: 5.76145, y: 5.5019503, z: 0}
+    m_Center: {x: -0.0036501884, y: -0.0036001205, z: 0}
+    m_Extent: {x: 5.76055, y: 5.5161, z: 0}
   m_PointLightInnerAngle: 360
   m_PointLightOuterAngle: 360
   m_PointLightInnerRadius: 0
@@ -20361,6 +20588,7 @@ GameObject:
   - component: {fileID: 1026811025}
   - component: {fileID: 1026811024}
   - component: {fileID: 1026811023}
+  - component: {fileID: 1026811029}
   m_Layer: 0
   m_Name: Spikes
   m_TagString: Untagged
@@ -20395,6 +20623,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fba9286d75000ce4b86a03e04465c20d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  killSondeffect: {fileID: 1026811029}
 --- !u!66 &1026811024
 CompositeCollider2D:
   m_ObjectHideFlags: 0
@@ -21962,6 +22191,102 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!82 &1026811029
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1026811021}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 84fbb82421b67104d8fc0f4ffcb0ed05, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1 &1067309049
 GameObject:
   m_ObjectHideFlags: 0
@@ -22704,8 +23029,8 @@ MonoBehaviour:
   m_ShadowVolumeIntensityEnabled: 0
   m_ShadowVolumeIntensity: 0.75
   m_LocalBounds:
-    m_Center: {x: -0.0037500858, y: -0.0016999245, z: 0}
-    m_Extent: {x: 5.7583504, y: 5.5059, z: 0}
+    m_Center: {x: 0.006850004, y: -0.002350092, z: 0}
+    m_Extent: {x: 5.7612495, y: 5.50935, z: 0}
   m_PointLightInnerAngle: 360
   m_PointLightOuterAngle: 360
   m_PointLightInnerRadius: 0
@@ -23988,8 +24313,8 @@ MonoBehaviour:
   m_ShadowVolumeIntensityEnabled: 0
   m_ShadowVolumeIntensity: 0.75
   m_LocalBounds:
-    m_Center: {x: -0.060750008, y: -0.0028499365, z: 0}
-    m_Extent: {x: 2.85295, y: 3.13175, z: 0}
+    m_Center: {x: -0.06774998, y: -0.010100007, z: 0}
+    m_Extent: {x: 2.84555, y: 3.1411, z: 0}
   m_PointLightInnerAngle: 360
   m_PointLightOuterAngle: 360
   m_PointLightInnerRadius: 0
@@ -24072,8 +24397,8 @@ MonoBehaviour:
   m_ShadowVolumeIntensityEnabled: 0
   m_ShadowVolumeIntensity: 0.75
   m_LocalBounds:
-    m_Center: {x: -0.07490003, y: -0.014349937, z: 0}
-    m_Extent: {x: 2.8523002, y: 3.13585, z: 0}
+    m_Center: {x: -0.068149924, y: -0.006250024, z: 0}
+    m_Extent: {x: 2.8589501, y: 3.1412501, z: 0}
   m_PointLightInnerAngle: 360
   m_PointLightOuterAngle: 360
   m_PointLightInnerRadius: 0
